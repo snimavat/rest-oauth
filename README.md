@@ -1,6 +1,8 @@
 # rest-oauth
-poC - CAS Oauth with Grails spring security rest plugin
+POC - CAS Oauth with Grails spring security rest plugin
 
+This poc shows how to use the CAS Ouath with resource owner password credentials grant type and integrate with spring security rest plugin for mobile clients.
+And without needing client side browser redirect.
 
 1. Check out https://github.com/casinthecloud/cas-pac4j-oauth-demo
 2. run mvn clean package on above repo
